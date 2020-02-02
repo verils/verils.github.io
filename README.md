@@ -1,3 +1,3 @@
-# Bob House
+# My Blog
 
 Coming soon...(Eh, or forever?)

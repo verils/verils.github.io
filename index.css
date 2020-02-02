@@ -1,0 +1,40 @@
+* {
+  color: #263238;
+  font-size: 14px;
+}
+
+*:hover {
+  color: #FDD835;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* common components */
+.container {
+  padding: 0 1.5em;
+}
+
+
+/* navbar */
+.navbar {
+  height: 64px;
+}
+
+.navbar-brand {
+  display: inline-block;
+}
+
+.navbar-brand a {
+  display: block;
+  padding: .25em 0;
+  margin: 1.25em 0;
+}
+
+.navbar-links {
+  float: right;
+  padding: .25em 0;
+  margin: 1.25em 0;
+}
